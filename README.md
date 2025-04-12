@@ -51,7 +51,7 @@ If you have any suggestions or found a bug you can send it as "issue" in my [git
 </details>
 
 <details>
-<summary>Install DebugMod</summary>
+<summary>Install OmniVision</summary>
 
 1. Copy `DebugMod.pak` from the `pak` folder to `GAME/Content/Paks/LogicMods` directory. 
 2. Copy the contents of the `mod` folder in `GAME/Binaries/Win64/Mods/Acitulen-DebugMod` directory.  
