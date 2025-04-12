@@ -21,23 +21,15 @@ If you have any suggestions or found a bug you can send it as "issue" in my [git
 
 * **Teleport across worlds:**  
 
-![Preview](https://github.com/Acitulen/DebugMod/blob/3.0.0/Preview/TeleportAcrossWorldsDemonstration.png?raw=true)
+![Preview](https://github.com/Acitulen/OmniVision/edit/1.0.0/Preview1.png?raw=true)
 
 * **Event activator:**  
 
-![Preview](https://github.com/Acitulen/DebugMod/blob/3.0.0/Preview/EventActivatorDemonstration.png?raw=true)
+![Preview](https://github.com/Acitulen/OmniVision/edit/1.0.0/Preview2.png?raw=true)
 
 * **Variable inspector:**  
 
-![Preview](https://github.com/Acitulen/DebugMod/blob/3.0.0/Preview/PropertyInspectorDemonstration.png?raw=true)
-
-* **Spectator:**  
-
-![Preview](https://github.com/Acitulen/DebugMod/blob/3.0.0/Preview/SpectatorDemonstration.png?raw=true)
-
-* **Extended spawn menu:**  
-
-![Preview](https://github.com/Acitulen/DebugMod/blob/3.1.0/Preview/ExtendedSpawnMenuDemonstration.png?raw=true)
+![Preview](https://github.com/Acitulen/OmniVision/edit/1.0.0/Preview3.png?raw=true)
 
 </details>
 
