@@ -10,6 +10,7 @@ If you have any suggestions or found a bug you can send it as "issue" in my [git
 **Ctrl+Shift+C** - open mod configs.  
 
 
+
 **ScreenUpdateRadius** - Distance to the player at which the screen updates. **High values may cause performance issues.**
 
 **ScreenUpdateDelay** - Camera image refresh delay (in seconds). **Low values may cause performance issues.**
