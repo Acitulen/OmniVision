@@ -7,7 +7,7 @@ If you have any suggestions or found a bug you can send it as "issue" in my [git
 
 # Configs:
 
-**Ctrl+Shift+C** - open mod configs.
+**Ctrl+Shift+C** - open mod configs.  
 
 
 **ScreenUpdateRadius** - Distance to the player at which the screen updates. **High values may cause performance issues.**
