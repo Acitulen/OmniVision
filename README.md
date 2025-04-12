@@ -30,69 +30,9 @@ If you have any suggestions or found a bug you can send it as "issue" in my [git
 </details>
 
 # Features: 
-## Main menu:
-- Disable annoying unsolvable labyrinth (backrooms).
-- Freeze everything except player.  
-*Some entities may move during timestop.
-- Change speed of day/night cycle.
-- Change ariral reputation.
-- Make player immortal.
-- Make player satiety non-consumable (75%+).
-- Make player stamina non-consumable (75%+). 
-- Make flashlight charge infinite (100%+).
-- Make player inventory infinite.
-- Toggle spectator mode.
-- Turn on/off all the lights.
-- Clean all base walls and floors from stains. 
-- Remove all useless (non-recyclable) trash.
-- Fix broken radio tower.
-- Reboot transformers.
-
-## Actor locator:
-- Find any actor in the world.
-- Get actor locations.
-- Teleport to actors.
-- Teleport actors to player.
-- Inspect actors.
-- Destroy actors.
-
-## Servers:
-- Break servers.
-- Fix servers.
-- Protect servers.
-- Copy today's task.
-
-## Debug mod config:
-- Set bind for main debug menu.
-- Set bind for variable inspector.
-- Set bind for destroy object function.
-- Set bind for timestop.
-- Set bind for spectator.
-- Set searches per tick.  
-*higher values may increase lags.
-- Set elements per page.  
-*higher values may increase lags.
-- Toggle timestop sounds.
-
-## Event activator:
-- Run story events.  
-*Most of events can only start in story mode.
-- Run trigger events.
-- Run ticker events.  
-*You need to set the number of tries to execute an event.
-
-## Waypoints:
-- Create waypoints.
-- Delete waypoints.
-- Teleport to waypoints.  
-*All waypoints are the same for all worlds.
-
-## Other:
-- Portable version of base console terminal.
-- Teleport across worlds.
-- Extended spawn menu.
-- Property inspector.
-- Function inspector.
+## *:
+- *
+- 
 
 ## Manual instalation guide.
 
