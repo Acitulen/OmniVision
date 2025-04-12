@@ -19,17 +19,13 @@ If you have any suggestions or found a bug you can send it as "issue" in my [git
 <details>
 <summary>Demonstration</summary>
 
-* **Teleport across worlds:**  
+* **CCTV mode:**  
 
 ![Preview](https://github.com/Acitulen/OmniVision/blob/1.0.0/Preview/Preview2.png?raw=true)
 
-* **Event activator:**  
+* **360 camera:**  
 
 ![Preview](https://github.com/Acitulen/OmniVision/blob/1.0.0/Preview/Preview3.png?raw=true)
-
-* **Variable inspector:**  
-
-![Preview](https://github.com/Acitulen/OmniVision/blob/1.0.0/Preview/Preview1.png?raw=true)
 
 </details>
 
