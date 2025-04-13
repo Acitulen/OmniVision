@@ -33,4 +33,4 @@ Configs can be accessed in the game settings under the **Mod configs** category 
 ## CCTV mode:
 - Can be enabled on any in-game TV.
 - Has three different layouts to display multiple cameras: 1x1, 2x2, 3x3.
-- You can enable CCTV mode by selecting **Cameras** in the TV menu.
+- You can enable CCTV mode by pressing **"Cameras"** button in the TV menu.
