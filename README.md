@@ -14,10 +14,6 @@ Configs can be opened in game settings in **Mod configs** category or by pressin
 # Preview
 
 
-
-<details>
-<summary>Demonstration</summary>
-
 * **CCTV mode:**  
 
 ![Preview](https://github.com/Acitulen/OmniVision/blob/1.0.0/Preview/Preview2.png?raw=true)
@@ -26,7 +22,6 @@ Configs can be opened in game settings in **Mod configs** category or by pressin
 
 ![Preview](https://github.com/Acitulen/OmniVision/blob/1.0.0/Preview/Preview3.png?raw=true)
 
-</details>
 
 # Features: 
 ## 360 Camera:
