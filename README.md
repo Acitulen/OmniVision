@@ -1,5 +1,7 @@
 # OmniVision
-This mod adds the multifunctional console menu for comfortable modding, debugging and manipulation.  
+This mod adds a fully functional camera surveillance system to the game. Players can now view security camera feeds directly through in-game televisions, offering a new layer of immersion and strategic awareness. The mod also introduces several new types of cameras with unique viewing angles and placements, expanding your monitoring capabilities across the environment.
+
+Whether you're keeping an eye on key locations or just enjoying the atmosphere, this mod brings a fresh dynamic to the gameplay.
   
 **⚠️WARNING⚠️ This mod is designed to function with VotV-082b_0016. Using older or newer versions of the game may cause errors!**  
 
