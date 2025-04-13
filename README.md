@@ -26,7 +26,7 @@ Configs can be opened in game settings in **Mod configs** category or by pressin
 # Features: 
 ## 360 Camera:
 - Can rotate 360 degrees.
-- Has three modes: **Up**, **Down** and **Auto**, whitch control camera view rotation.
+- Has three modes, whitch control camera view rotation: **Up**, **Down** and **Auto**.
 - Modes can be chaged by pressing **toggle** on camera or by pressing orange refresh button in laptop while watchin camera.
 - You can buy it in in-game store in **esentials** category for **200 points**.
 - You you can craft it from **good quality camera**, **plastic scrap** and **electric scrap**.
