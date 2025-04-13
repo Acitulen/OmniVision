@@ -1,4 +1,4 @@
-# DebugMod
+# OmniVision
 This mod adds the multifunctional console menu for comfortable modding, debugging and manipulation.  
   
 **⚠️WARNING⚠️ This mod is designed to function with VotV-082b_0016. Using older or newer versions of the game may cause errors!**  
