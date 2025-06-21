@@ -1,7 +1,7 @@
 # OmniVision
 This mod adds a new functional 360° surveillance camera to the game, as well as the ability to display any cameras on in-game TVs.
 
-**⚠️WARNING⚠️ This mod is designed to work with VotV-082b_0016. Using older or newer versions of the game may cause errors!**  
+**⚠️WARNING⚠️ This mod is designed to work with VotV-082c_0011. Using older or newer versions of the game may cause errors!**  
 
 If you have any suggestions or find a bug, you can submit it as an "issue" in my [GitHub repository](https://github.com/Acitulen/OmniVision).
 
@@ -34,3 +34,4 @@ Configs can be accessed in the game settings under the **Mod configs** category 
 - Can be enabled on any in-game TV.
 - Has three different layouts to display multiple cameras: 1x1, 2x2, 3x3.
 - You can enable CCTV mode by pressing **"Cameras"** button in the TV menu.
+- To adjust CCTV system, you need to select a layout configuration, choose a cell for a camera, then select the camera.
