@@ -55,7 +55,8 @@ Configs can be accessed in the game settings under the **Mod configs** category 
 ## Lidar:
 - Used to scan the surrounding environment.
 - Displays detected objects as colored points, with different colors depending on object type.
-- Fully customizable through config settings.
+- You can buy it in the in-game store under the **tools** category for **300 points**.
+- Fully customizable through mod configs.
 
 ## CCTV mode:
 - Can be enabled on any in-game TV.
