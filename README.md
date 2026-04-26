@@ -1,5 +1,5 @@
 # OmniVision
-This mod adds a new functional 360° surveillance camera to the game, as well as the ability to display any cameras on in-game TVs.
+This mod adds new surveillance and scanning devices to the game, along with the ability to display camera feeds on in-game TVs.
 
 **⚠️WARNING⚠️ This version of OmniVision is designed to function with VotV a0.9.0j. Using older or newer versions of the game may cause errors!**  
 
