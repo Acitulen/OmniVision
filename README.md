@@ -1,14 +1,14 @@
 # OmniVision
 This mod adds new surveillance and scanning devices to the game, along with the ability to display camera feeds on in-game TVs.
 
-**⚠️WARNING⚠️ This version of OmniVision is designed to function with VotV a0.9.0j. Using older or newer versions of the game may cause errors!**  
+**⚠️WARNING⚠️ This version of OmniVision is designed to function with VotV 0.9.0k. Using older or newer versions of the game may cause errors!**  
 
 If you have any suggestions or encounter a bug, you can submit it as an issue on my [GitHub repository](https://github.com/Acitulen/OmniVision).
 
 # **Configs**:
 Configs can be accessed in the game settings under the **Mod configs** category or by pressing **Ctrl+Shift+C**.
 
-- **Lidar/Angle** - Sets the scanning angle of the lidar (in degrees)  
+- **Lidar/Angle** - Sets the scanning angle of the lidar (in degrees).  
   **Default:** `40`
 
 - **Lidar/PointsPerTick** - Sets the number of scan points generated per tick.   
@@ -61,5 +61,5 @@ Configs can be accessed in the game settings under the **Mod configs** category 
 ## CCTV mode:
 - Can be enabled on any in-game TV.
 - Has three different layouts to display multiple cameras: 1x1, 2x2, 3x3.
-- You can enable CCTV mode by pressing **"Cameras"** button in the TV menu.
-- To adjust CCTV system, you need to select a layout configuration, choose a cell for a camera, then select the camera.
+- You can enable the CCTV mode by pressing **"Cameras"** button in the TV menu.
+- To adjust the CCTV system, you need to select a layout configuration, choose a cell for a camera, then select the camera.
