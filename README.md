@@ -53,7 +53,9 @@ Configs can be accessed in the game settings under the **Mod configs** category 
 - You can also craft it using a **good quality camera**, **plastic scrap**, and **electric scrap**.
 
 ## Lidar:
-- 
+- Used to scan the surrounding environment.
+- Displays detected objects as colored points, with different colors depending on object type.
+- Fully customizable through config settings.
 
 ## CCTV mode:
 - Can be enabled on any in-game TV.
